@@ -1,2 +1,2 @@
 # Megamind-Camera
-A sinple camera mod for gorilla tag
+A simple camera mod for gorilla tag
